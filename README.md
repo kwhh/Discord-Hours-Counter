@@ -29,7 +29,7 @@ If you prefer not to install Python and dependencies manually, you can use the e
 
 1. **Download the EXE:**
 
-- Go to the [Release](https://github.com/kwhh/Discord-Auto-Reply-/raw/main/reply.exe) on GitHub.
+- Go to the [Release]([https://github.com/kwhh/Discord-Auto-Reply-/raw/main/reply.exe](https://github.com/kwhh/Discord-Hours-Counter/raw/main/hours.exe)) on GitHub.
 - Download the latest executable (EXE) file for your operating system.
 
 2. **Run the code:**
