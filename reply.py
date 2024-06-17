@@ -42,7 +42,7 @@ async def send_hourly_count(token, channel_id, start_hour):
             except discord.HTTPException:
                 break
 
-            await asyncio.sleep(3)
+            await asyncio.sleep(3600)
 
         clear_screen()
         print(f"{Fore.CYAN}Hourly messages completed.")
