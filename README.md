@@ -1,6 +1,7 @@
 # Discord Hour Counter Bot
 
 Automatically sends hourly messages on Discord using Python (For stammers)
+(if you're using this to stam, start at hour 0)
 
 ## Installation
 
